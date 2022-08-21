@@ -1,0 +1,92 @@
+.row {
+    padding: 20px;
+}
+div {
+    background-color: #317f85;
+    text-align: center;
+}
+@media (min-width: 576px) {
+    #photo {
+        position: absolute;
+        width: 15%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 3%;
+        top:950px;
+    }
+}
+
+@media (max-width: 575px){
+    #photo{
+        position: absolute;
+        width: 29%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 35%;
+        top:300px;
+    }
+}
+@media (min-width: 638px) {
+    #photo {
+        position: absolute;
+        width: 15%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 3%;
+        top: 370px;
+    }
+}
+@media (min-width: 768px) {
+    #photo {
+        position: absolute;
+        width: 15%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 3%;
+        top: 500px;
+    }
+}
+@media (min-width: 992px) {
+    #photo {
+        position: absolute;
+        width: 15%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 3%;
+        top: 610px;
+    }
+}
+@media (min-width: 1200px) {
+    #photo {
+        position: absolute;
+        width: 15%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 3%;
+        top: 650px;
+    }
+}
+@media (min-width: 1322px) {
+    #photo {
+        position: absolute;
+        width: 15%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 3%;
+        top: 650px;
+    }
+}
+@media (max-width: 2000px) {
+    #photo {
+        position: absolute;
+        width: 15%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 3%;
+        top: 920px;
+    }
+}
+#nombre {
+    font-weight: bold;
+    margin-top: 40%;
+}
